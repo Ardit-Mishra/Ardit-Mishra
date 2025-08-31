@@ -23,16 +23,16 @@ I am always learning, experimenting with new technologies, and striving to grow 
 ## 🚀 Featured Projects (in-progress & growing)  
 
 🔬 **Bioinformatics**  
-- [Genome Sequencing Analyzer](https://github.com/Ardit-Mishra/genome-sequencing-analyzer) – Upload FASTA → instant QC, k-mers, ORFs.  
-- [Peptide–MHC Binding Predictor](https://github.com/Ardit-Mishra/peptide-mhc-binding-predictor) – Deep learning models for immunology research.  
-- [Gene Set Enrichment Web App](https://github.com/Ardit-Mishra/gene-set-enrichment-app) – GO/KEGG enrichment with interactive visualization.  
-- [Drug Response Predictor](https://github.com/Ardit-Mishra/drug-response-predictor) – ML-based QSAR predictions + explainability.  
+- [Genome Sequencing Analyzer](https://github.com/Ardit-Mishra/genome-sequencing-analyzer) – A web app to upload DNA sequences and instantly analyze GC content, k-mers, and reading frames. Built with React + FastAPI + Biopython (with optional C++ optimization).  
+- [Peptide–MHC Binding Predictor](https://github.com/Ardit-Mishra/peptide-mhc-binding-predictor) – Predicts immune system binding of peptides using deep learning models (CNNs, BiLSTMs, Transformers) with an Angular dashboard for results.  
+- [Gene Set Enrichment Web App](https://github.com/Ardit-Mishra/gene-set-enrichment-app) – Upload a gene list and get GO/KEGG enrichment results with interactive plots. Built with React + Python APIs (g:Profiler).  
+- [Drug Response Predictor](https://github.com/Ardit-Mishra/drug-response-predictor) – Machine learning models that predict whether a compound might be effective against a disease, with explainable outputs using SHAP.  
 
 📈 **Finance / Data Science**  
-- [Futures Trading Bot](https://github.com/Ardit-Mishra/futures-trading-bot) – RL/LSTM-driven signals + React dashboard.  
-- [Market Sentiment Analyzer](https://github.com/Ardit-Mishra/market-sentiment-analyzer) – Transformer NLP on financial news/social data.  
-- [Portfolio Risk Dashboard](https://github.com/Ardit-Mishra/portfolio-risk-dashboard) – Monte Carlo + ML forecasting in Angular.  
-- [Fraud Detection App](https://github.com/Ardit-Mishra/fraud-detection-app) – ML-based anomaly detection for transactions.  
+- [Futures Trading Bot](https://github.com/Ardit-Mishra/futures-trading-bot) – Automated futures trading bot that uses reinforcement learning and LSTMs for signals, with a React dashboard to visualize trades.  
+- [Market Sentiment Analyzer](https://github.com/Ardit-Mishra/market-sentiment-analyzer) – Analyzes financial news & social media using NLP Transformers (FinBERT) to measure market sentiment in real time.  
+- [Portfolio Risk Dashboard](https://github.com/Ardit-Mishra/portfolio-risk-dashboard) – A risk and forecasting dashboard for portfolios using Monte Carlo simulations and Bayesian VAR forecasting, deployed with Angular + FastAPI.  
+- [Fraud Detection App](https://github.com/Ardit-Mishra/fraud-detection-app) – Upload financial transactions to detect anomalies using Isolation Forests and Autoencoders, with an interactive React interface.
 
 ---
 
