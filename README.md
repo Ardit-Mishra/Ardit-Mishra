@@ -46,15 +46,15 @@ AWS, GCP, Azure, Docker, Git
 
 - **[GenomeSight](https://github.com/Ardit-Mishra/genomesight)**  
   Interactive genome sequence analysis toolkit for DNA/RNA analysis, GC profiling, k-mer analysis, ORF detection, motif search, and FASTQ quality visualization.
-  🌐 Live: https://genomesight.arditmishra.com
+🌐 Live: https://genomesight.arditmishra.com
   
 - **[BioStudio](https://github.com/Ardit-Mishra/biostudio)**  
   Modular computational drug discovery platform featuring molecular descriptor computation, ADME/PK heuristics, toxicity modeling (including neural network architecture), and knowledge graph analysis.
-  🌐 Live: https://biostudio.arditmishra.com
+🌐 Live: https://biostudio.arditmishra.com
 
 - **[Peptide–MHC Binding Predictor](https://github.com/Ardit-Mishra/peptide-mhc-binding-predictor)**  
   Deep learning-based immunoinformatics platform comparing CNNs, BiLSTMs, and Transformer architectures for peptide–MHC binding prediction.
-  🌐 Live: https://peptide.arditmishra.com
+🌐 Live: https://peptide.arditmishra.com
 
 ---
 
