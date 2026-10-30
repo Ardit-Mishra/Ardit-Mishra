@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Ardit Mishra — AI engineer and builder. I build software that checks its own work.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Ardit Mishra — AI engineer and builder. I build AI that shows its work.">
   <rect width="1200" height="300" fill="#F6F3EC"/>
   <g stroke="#D9D4C7" stroke-width="1">
     <line x1="56" y1="252" x2="1144" y2="252"/>
   </g>
   <text x="56" y="78" fill="#B45309" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="26">AI engineer &amp; builder</text>
   <text x="52" y="160" fill="#16150F" font-family="'Helvetica Neue', Arial, sans-serif" font-weight="700" font-size="88" letter-spacing="-3">ARDIT MISHRA</text>
-  <text x="56" y="212" fill="#3D3C36" font-family="Georgia, 'Times New Roman', serif" font-size="27">I build software that checks its own <tspan fill="#B45309" font-style="italic">work</tspan>.</text>
+  <text x="56" y="212" fill="#3D3C36" font-family="Georgia, 'Times New Roman', serif" font-size="27">I build AI that shows its <tspan fill="#B45309" font-style="italic">work</tspan>.</text>
   <text x="56" y="280" fill="#6B6860" font-family="Consolas, 'Courier New', monospace" font-size="16">arditmishra.com · 5 live projects · multi-agent AI · science tools that cite their sources</text>
   <g transform="translate(1000 70)" fill="none" stroke-width="1.5">
     <circle cx="60" cy="60" r="56" stroke="#D9D4C7"/>
