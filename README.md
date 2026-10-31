@@ -1,7 +1,7 @@
 <a href="https://arditmishra.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img alt="Ardit Mishra — AI engineer & builder. Designed for what AI gets right, and ready for what it gets wrong." src="assets/banner-light.svg" width="100%">
+    <img alt="Ardit Mishra. Founder and AI Engineer, AI and Bioinformatics. Designed for what AI gets right, and ready for what it gets wrong." src="assets/banner-light.svg" width="100%">
   </picture>
 </a>
 
